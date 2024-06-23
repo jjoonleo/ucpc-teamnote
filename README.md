@@ -13,4 +13,7 @@
 ## Tree
 - Minimum Spanning Tree
 
+## String
+* KMP
+
 
