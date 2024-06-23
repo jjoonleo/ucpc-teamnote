@@ -1,16 +1,16 @@
 "# ucpc-teamnote" 
 
 ## Geometry
-[ ]Line-segment intersection
-[ ]convex hull
+- Line-segment intersection\
+- convex hull
 
 ## Data Structure
-[ ]segment tree
+- segment tree
 
 ## Graph
 
 
 ## tree
-[ ]Minimum Spanning Tree
+- Minimum Spanning Tree
 
 
